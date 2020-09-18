@@ -1,0 +1,135 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 40px;
+  color: #e23e57;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color:#e23e57;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color:#88304e;
+}
+
+hr{
+  border: dotted #95e1d3 6px;
+  width: 4%;
+  margin: 100px auto 100px auto;
+}
+
+a{
+  color: #88304e;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+ a:hover{
+  color: #dbe2ef;
+ }
+
+.copyright{
+  color: #522546;
+  font-size: 16px;
+  padding: 20px 0;
+}
+.sample{
+  font-weight: normal;
+}
+
+.top-container {
+  background-color: #f8b595;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container{
+  background-color:#fdfdfd;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 100PX;
+}
+.bottom-container{
+ background-color: #ffc8c8;
+ padding: 50px 0 0px;
+ }
+
+.bottom-cloud{
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.top-cloud{
+  position: absolute;
+  top:40px;
+  right: 300px;
+}
+
+.footer-link{
+  color:#311d3f;
+}
+
+.skill-row{
+  width:50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.computer{
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
+
+.chillies{
+  float: right;
+  margin-left: 30px;
+  width: 25%;
+ }
+
+.intro{
+  width: 30%;
+  margin:auto auto 20px auto;
+  color: #40514E;
+}
+
+ .aaa{
+   width: 40%;
+   margin: 40px auto 60px;
+ }
+ .myButton {
+ 	box-shadow: 0px 0px 0px 2px #9fb4f2;
+ 	background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+ 	background-color:#7892c2;
+ 	border-radius:31px;
+ 	display:inline-block;
+ 	cursor:pointer;
+ 	color:#ffffff;
+ 	font-family:Georgia;
+ 	font-size:19px;
+ 	padding:17px 29px;
+ 	text-decoration:none;
+ 	text-shadow:0px 1px 0px #283966;
+ }
+ .myButton:hover {
+ 	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+ 	background-color:#476e9e;
+ }
+ .myButton:active {
+ 	position:relative;
+ 	top:1px;
+ }
